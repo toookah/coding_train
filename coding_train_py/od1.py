@@ -24,7 +24,7 @@
 # 2
 
 # 如果子串中只包含同一字母的子串数小于k，则输出-1
-a="AAAAHHHBBCDHHHHk"
+a="AAAAHHHBBCDHHHH"
 k=3
 
 map={}
